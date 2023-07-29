@@ -1,0 +1,29 @@
+.btn-primary {
+	background-color: #7843e9;
+}
+
+#header-name {
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+
+.btn-purple {
+	color: #fff;
+	background-color: #7843e9;
+	border-color: #7843e9; 
+}
+
+.btn-purple:hover,
+.btn-purple:focus,
+.btn-purple:active,
+.btn-purple.active,
+.open > .dropdown-toggle.btn-purple {
+	color: #fff;
+	background-color: #7843e9;
+	border-color: #7843e9; /
+}
+
+#linked_in_icon{
+    border-radius: 50%;
+}
